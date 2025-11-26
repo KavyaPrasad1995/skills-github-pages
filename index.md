@@ -1,4 +1,4 @@
 ---
-title: From Bench to Product: My Scientific Journey
+title: Building Better Biology Tools
 ---
 
