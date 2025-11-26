@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: From Bench to Product: My Scientific Journey
 ---
 
